@@ -1,6 +1,5 @@
- **Alex Temir** 
- =====  
- **Junior Front-End Developer**  
+ **Alex Temir**  
+ **Junior Front-End Developer**   
    
 **phone**    +7 (702)–369–2500  
 **E-mail**   alex404tm@yandex.ru   
