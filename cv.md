@@ -10,7 +10,7 @@ ___
 My goal is to become a software engineer  
 
 **Skills**   
-***  
+___  
 * HTML, CSS
 * javascript (React, Angular)
 * Node.js (Express)
@@ -28,7 +28,7 @@ function factorial(n) {
 }
 ```
 **Experience**  
-***  
+___  
 
 * [HTMLacademy](https://htmlacademy.ru)
 * [learn.javascript.ru](https://learn.javascript.ru)
@@ -37,10 +37,10 @@ function factorial(n) {
 * Javascript, Node.js courses on [Udemy](www.udemy.com/‎)
 
 **Education**  
-***  
+___  
 >2008-2013 University, engineer of radioelectronics  
 
 **English**  
-***  
+___  
  Pre-Intermediate / A2.  
  ( Reading technical documentation and articles )
