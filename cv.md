@@ -9,3 +9,22 @@
 **Summary**  
 ***
 My goal is to become a software engineer
+
+**Skills**  
+***
+* HTML, CSS
+* javascript (React, Angular)
+* Node.js (Express)
+* Photoshop, figma.
+* GitHub
+* Wordpress
+* C++
+* Matlab
+
+**Code examples**   
+***
+```javascript
+function factorial(n) {
+    return (n != 1) ? n * factorial(n ‐ 1) : 1;
+}
+```
