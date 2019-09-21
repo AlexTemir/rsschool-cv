@@ -6,11 +6,11 @@
 **Location**| Kazakhstan, Karagandy city  
 
 **Summary**  
-***
+***  
 My goal is to become a software engineer
 
 **Skills**  
-***
+***  
 * HTML, CSS
 * javascript (React, Angular)
 * Node.js (Express)
@@ -21,14 +21,14 @@ My goal is to become a software engineer
 * Matlab
 
 **Code examples**   
-***
+***  
 ```javascript
 function factorial(n) {
     return (n != 1) ? n * factorial(n ‐ 1) : 1;
 }
 ```
 **Experience**  
-***
+***  
 
 * [HTMLacademy](https://htmlacademy.ru)
 * [learn.javascript.ru](https://learn.javascript.ru)
@@ -37,10 +37,10 @@ function factorial(n) {
 * Javascript, Node.js courses on [Udemy](www.udemy.com/‎)
 
 **Education** 
-***
+***  
 >2008-2013 University, engineer of radioelectronics  
 
 **English**  
-***
+***  
  Pre-Intermediate / A2.  
  ( Reading technical documentation and articles )
