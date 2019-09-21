@@ -6,7 +6,7 @@
 **Location**| Kazakhstan, Karagandy city  
 
 **Summary**  
-***  
+---  
 My goal is to become a software engineer  
 
 **Skills**   
