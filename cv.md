@@ -1,5 +1,5 @@
  **Alex Temir** 
- =====
+ =====  
  **Junior Front-End Developer**  
    
 **phone**    +7 (702)–369–2500  
