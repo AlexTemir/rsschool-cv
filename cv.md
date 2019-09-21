@@ -1,15 +1,15 @@
  ## Alex Temir    
  ### Junior Front-End Developer   
 **phone**| +7 (702)–369–2500  
------------- | ------------- 
+------------ | -------------  
 **E-mail**| alex404tm@yandex.ru   
 **Location**| Kazakhstan, Karagandy city  
 
 **Summary**  
 ***  
-My goal is to become a software engineer
+My goal is to become a software engineer  
 
-**Skills**  
+**Skills**   
 ***  
 * HTML, CSS
 * javascript (React, Angular)
@@ -20,7 +20,7 @@ My goal is to become a software engineer
 * C++
 * Matlab
 
-**Code examples**   
+**Code examples**    
 ***  
 ```javascript
 function factorial(n) {
@@ -36,7 +36,7 @@ function factorial(n) {
 * [Freecodecamp](https://www.freecodecamp.org)
 * Javascript, Node.js courses on [Udemy](www.udemy.com/‎)
 
-**Education** 
+**Education**  
 ***  
 >2008-2013 University, engineer of radioelectronics  
 
