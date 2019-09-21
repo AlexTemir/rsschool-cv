@@ -28,3 +28,20 @@ function factorial(n) {
     return (n != 1) ? n * factorial(n ‐ 1) : 1;
 }
 ```
+**Experience**  
+***
+
+* [HTMLacademy](https://htmlacademy.ru)
+* [learn.javascript.ru](https://learn.javascript.ru)
+* [w3schools](https://www.w3schools.com)
+* [Freecodecamp](https://www.freecodecamp.org)
+* Javascript, Node.js courses on [Udemy](www.udemy.com/‎)
+
+**Education** 
+***
+>2008-2013 University, engineer of radioelectronics  
+
+**English**  
+***
+ Pre-Intermediate / A2.  
+ ( Reading technical documentation and articles )
